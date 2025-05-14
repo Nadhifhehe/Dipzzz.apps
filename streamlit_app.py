@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("dipzzz")
 st.write(
-    "slebew ✋😝🤚"
+    "slebew ✋😝🤚 "
 )
 
 col1, col2, col3 = st.columns(3)
